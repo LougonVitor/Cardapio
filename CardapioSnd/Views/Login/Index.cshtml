@@ -1,0 +1,26 @@
+﻿@model LoginModel
+@{
+    ViewData["Title"] = "Tela de Login";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Faça seu login aqui</h1>
+        <section>
+            <form asp-controller="Login" asp-action="Entrar" method="POST">
+                <div class="form-group mb-3">
+                    <label for="inputLogin">Login</label>
+                    <input type="text" class="form-control mt-1" id="inputLogin" aria-describedby="emailHelp" placeholder="Digite seu login aqui..." asp-for="Login">
+                    @Html.ValidationMessageFor(o => o.Login)
+                </div>
+                <div class="form-group mb-5">
+                    <label for="inputSenha">Senha</label>
+                    <input type="password" class="form-control mt-1" id="inputSenha" placeholder="Digite sua senha aqui..." asp-for="Senha">
+                    @Html.ValidationMessageFor(o => o.Senha)
+                </div>
+                <button type="submit" class="btn btnSuccess w-100 mb-2">Entrar</button>
+            </form>
+            <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Home" asp-action="Index">Cancelar</a>
+        </section>
+    </main>
+</div>

@@ -1,0 +1,50 @@
+﻿@model CardapioModel
+@{
+    ViewData["Title"] = "Cardápio do Dia";
+}
+
+
+<section id="section-backgroud-apresantation">
+    <div class="text-center div-bck-apresantation">
+        <div class="div-bck-box-txt">
+            <h1 class="display-2">Cardápio do Dia</h1>
+            <p>O cardápio é atualizado todo dia as 00:00.</p>
+        </div>
+    </div>
+</section>
+<div class="container">
+    <main role="main" class="pb-3">
+        <section>
+
+            <div>
+                <table class="table table-striped mb-5 mt-5">
+                    <thead>
+                        <tr>
+                            <th scope="col">Dia</th>
+                            <th scope="col">Guarnição</th>
+                            <th scope="col">Carne</th>
+                            <th scope="col">Salada / Legumes</th>
+                            <th scope="col">Extras</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @if(Model != null)
+                            {
+                                <th>@Model.DATA_CARDAPIO</th>
+                                <td>@Model.GUARNICAO</td>
+                                <td>@Model.CARNE</td>
+                                <td>@Model.SALADA_LEGUMES</td>
+                                <td>@Model.EXTRAS</td>
+                            }
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-center">
+                <a role="button" class="btn btnSuccess" asp-controller="Home" asp-action="CardapioSemana">Acessar Cardápio da Semana</a>
+            </div>
+        </section>
+    </main>
+</div>

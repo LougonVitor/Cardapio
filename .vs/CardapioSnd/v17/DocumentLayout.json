@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\views\\cardapio\\adicionaralimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\repositorio\\alimentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\filters\\filtrousuariosuperadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD404D0-CFD9-4501-B17F-E73D95EB950A}|CardapioSnd\\CardapioSnd.csproj|\\\\srvvir03\\arquivos\\departamentos\\cachoeiro\\gerenciaestrategica\\_desenvolvimento\\sistemas\\.net\\cardapiosnd\\cardapiosnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdicionarAlimento.cshtml",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Cardapio\\AdicionarAlimento.cshtml",
+              "RelativeDocumentMoniker": "CardapioSnd\\Views\\Cardapio\\AdicionarAlimento.cshtml",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Cardapio\\AdicionarAlimento.cshtml",
+              "RelativeToolTip": "CardapioSnd\\Views\\Cardapio\\AdicionarAlimento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:22:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlimentoRepositorio.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Repositorio\\AlimentoRepositorio.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Repositorio\\AlimentoRepositorio.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Repositorio\\AlimentoRepositorio.cs",
+              "RelativeToolTip": "CardapioSnd\\Repositorio\\AlimentoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:45:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiltroUsuarioSuperAdmin.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Filters\\FiltroUsuarioSuperAdmin.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Filters\\FiltroUsuarioSuperAdmin.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Filters\\FiltroUsuarioSuperAdmin.cs",
+              "RelativeToolTip": "CardapioSnd\\Filters\\FiltroUsuarioSuperAdmin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:38:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CardapioSnd\\wwwroot\\js\\site.js",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CardapioSnd\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-08T13:31:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CardapioSnd\\wwwroot\\css\\site.css",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CardapioSnd\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T13:30:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "CardapioSnd\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "CardapioSnd\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:56:12.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Controllers\\UsuarioController.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CardapioSnd\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:53:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Program.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Program.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Program.cs",
+              "RelativeToolTip": "CardapioSnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:50:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardapioController.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\CardapioController.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Controllers\\CardapioController.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\CardapioController.cs",
+              "RelativeToolTip": "CardapioSnd\\Controllers\\CardapioController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:53:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Controllers\\LoginController.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CardapioSnd\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:22:49.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "CardapioSnd\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:21:06.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Controllers\\HomeController.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CardapioSnd\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:53:15.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "CardapioSnd\\Views\\Login\\Index.cshtml",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "CardapioSnd\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:05:11.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Models\\LoginModel.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CardapioSnd\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:06:58.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "CardapioSnd\\Data\\BancoContext.cs",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\Data\\BancoContext.cs",
+              "RelativeToolTip": "CardapioSnd\\Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:50:24.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\appsettings.json",
+              "RelativeDocumentMoniker": "CardapioSnd\\appsettings.json",
+              "ToolTip": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\appsettings.json",
+              "RelativeToolTip": "CardapioSnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T12:39:18.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

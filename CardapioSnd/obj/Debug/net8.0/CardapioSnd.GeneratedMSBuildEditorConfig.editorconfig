@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CardapioSnd
+build_property.RootNamespace = CardapioSnd
+build_property.ProjectDir = C:\Users\vitor\OneDrive\Área de Trabalho\CardapioSnd\CardapioSnd\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\vitor\OneDrive\Área de Trabalho\CardapioSnd\CardapioSnd
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/AdicionarAlimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cQWRpY2lvbmFyQWxpbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/AdicionarCardapio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cQWRpY2lvbmFyQ2FyZGFwaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/ApagarAlimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cQXBhZ2FyQWxpbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/ApagarCardapio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cQXBhZ2FyQ2FyZGFwaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/EditarAlimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cRWRpdGFyQWxpbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/EditarCardapio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cRWRpdGFyQ2FyZGFwaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/GerenciarAlimento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cR2VyZW5jaWFyQWxpbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/GerenciarCardapio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cR2VyZW5jaWFyQ2FyZGFwaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Cardapio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZGFwaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Filtro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsdHJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Home/CardapioSemana.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJkYXBpb1NlbWFuYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Usuario/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBcGFnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Usuario/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Usuario/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Usuario/Senha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xTZW5oYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/OneDrive/Área de Trabalho/CardapioSnd/CardapioSnd/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8azxcjqjti

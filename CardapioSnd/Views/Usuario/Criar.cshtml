@@ -1,0 +1,47 @@
+﻿@using CardapioSnd.Enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Criar Usuario";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Adicionar Usuario</h1>
+        <section>
+            <form asp-controller="Usuario" asp-action="Criar" method="post">
+                <div class="form-group mb-3">
+                    <label for="inputLogin">Login</label>
+                    <input type="text" class="form-control mt-1" id="inputLogin" aria-describedby="emailHelp" placeholder="Digite seu login aqui..." asp-for="LOGIN">
+                    @Html.ValidationMessageFor(o => o.LOGIN)
+                </div>
+                <div class="form-group mb-3">
+                    <label for="inputNome">Nome Completo</label>
+                    <input type="text" class="form-control mt-1" id="inputNome" placeholder="Digite seu nome aqui..." asp-for="NOME">
+                    @Html.ValidationMessageFor(o => o.NOME)
+                </div>
+                <div class="form-group mb-3">
+                    <label for="inputEmail">Email</label>
+                    <input type="email" class="form-control mt-1" id="inputEmail" placeholder="Digite seu e-mail aqui..." asp-for="EMAIL">
+                    @Html.ValidationMessageFor(o => o.EMAIL)
+                </div>
+                <div class="form-group mb-3">
+                    <label for="inputSenha">Perfil</label>
+                    <select class="form-control mt-1" asp-for="PERFIL">
+                        <option value="">Selecionar</option>
+                        <option value="@PerfilEnum.Padrao">Padrão</option>
+                        <option value="@PerfilEnum.Admin">Administrador</option>
+                        <option value="@PerfilEnum.SuperAdmin">Super Admin</option>
+                    </select>
+                    @Html.ValidationMessageFor(o => o.PERFIL)
+                </div>
+                <div class="form-group mb-3">
+                    <label for="inputSenha">Senha</label>
+                    <input type="password" class="form-control mt-1" id="inputSenha" placeholder="Digite sua senha aqui..." asp-for="SENHA">
+                    @Html.ValidationMessageFor(o => o.SENHA)
+                </div>
+                <button type="submit" class="btn btnSuccess w-100 mb-2">Adicionar</button>
+            </form>
+            <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Usuario" asp-action="Index">Voltar</a>
+        </section>
+    </main>
+</div>

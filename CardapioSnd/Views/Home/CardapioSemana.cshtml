@@ -1,0 +1,51 @@
+﻿@model List<CardapioModel>
+@{
+    ViewData["Title"] = "Cardapio da Semana";
+}
+<section id="section-backgroud-apresantation">
+    <div class="text-center div-bck-apresantation">
+        <div class="div-bck-box-txt">
+            <h1 class="display-2">Cardápio da Semana</h1>
+            <p>O cardápio da semana é atualizado toda segunda as 00:00.</p>
+        </div>
+    </div>
+</section>
+<div class="container">
+    <main role="main" class="pb-3">
+        <section>
+
+            <div>
+                <table class="table table-striped mt-2">
+                    <thead>
+                        <tr>
+                            <th scope="col">Dia</th>
+                            <th scope="col">Guarnição</th>
+                            <th scope="col">Carne</th>
+                            <th scope="col">Salada / Legumes</th>
+                            <th scope="col">Extras</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if(Model != null && Model.Any())
+                        {
+                            foreach(CardapioModel cardapio in Model)
+                            {
+                                <tr>
+                                    <th>@cardapio.DATA_CARDAPIO</th>
+                                    <td>@cardapio.GUARNICAO</td>
+                                    <td>@cardapio.CARNE</td>
+                                    <td>@cardapio.SALADA_LEGUMES</td>
+                                    <td>@cardapio.EXTRAS</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-center">
+                <a role="button" class="btn btnSuccess" asp-controller="Home" asp-action="Index">Voltar Para Cardápio do Dia</a>
+            </div>
+        </section>
+    </main>
+</div>

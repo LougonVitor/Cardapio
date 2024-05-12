@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/Layout.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CardapioSnd.styles.css" asp-append-version="true" />
+    <link href="https://cdn.datatables.net/v/dt/dt-2.0.2/datatables.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow">
+            @await Component.InvokeAsync("Menu")
+        </nav>
+    </header>
+
+    @RenderBody()
+
+    <footer class="border-top footer">
+        <section id="container-footer">
+            <div class="box-footer left">
+                <p>&copy; 2024 - CreatedBy Vítor Lougon - <a asp-area="" asp-controller="Home" asp-action="Privacy">Developer</a></p>
+            </div>
+            <div class="box-footer right">
+                <div>
+                    <p>Acesse nossa intranet</p>
+                </div>
+                <div>
+                    <a href="http://intranet/" class="btn-nav-green">Intranet</a>
+                </div>
+            </div>
+        </section>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.datatables.net/v/dt/dt-2.0.2/datatables.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

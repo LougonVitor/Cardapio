@@ -1,0 +1,42 @@
+﻿@model List<AlimentoModel>
+@{
+    ViewData["Title"] = "Gerenciar Alimentos";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Listagem de Alimentos</h1>
+        <div class="mt-2">
+            <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="Index">Voltar</a>
+        </div>
+        <section>
+            <table class="table table-hover mb-2 mt-1" id="tabela-alimento">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Tipo</th>
+                        <th scope="col">Alimento</th>
+                        <th scope="col">Funções</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if(Model != null && Model.Any())
+                    {
+                        foreach(AlimentoModel alimento in Model)
+                        {
+                            <tr>
+                                <th scope="row">@alimento.ID_ALIMENTO</th>
+                                <td>@alimento.TP_ALIMENT0</td>
+                                <td>@alimento.DS_ALIMENTO</td>
+                                <td>
+                                    <a role="button" class="btn btn-outline-warning" asp-controller="Cardapio" asp-action="EditarAlimento" asp-route-id="@alimento.ID_ALIMENTO">Editar</a>
+                                    <a role="button" class="btn btn-outline-danger" asp-controller="Cardapio" asp-action="ApagarAlimento" asp-route-id="@alimento.ID_ALIMENTO">Apagar</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </section>
+    </main>
+</div>

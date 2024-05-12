@@ -1,0 +1,48 @@
+﻿@model List<CardapioModel>
+@{
+    ViewData["Title"] = "Gerenciar Cardapio";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Listagem de Cardápios</h1>
+        <div class="mt-2">
+            <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="Index">Voltar</a>
+        </div>
+        <section>
+            <table class="table table-hover mb-3 mt-1" id="tabela-cardapio">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Dia</th>
+                        <th scope="col">Guarnição</th>
+                        <th scope="col">Salada/Legumes</th>
+                        <th scope="col">Carnes</th>
+                        <th scope="col">Extras</th>
+                        <th scope="col">Funções</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if(Model != null && Model.Any())
+                    {
+                        foreach(CardapioModel cardapio in Model)
+                        {
+                            <tr>
+                                <th scope="row">@cardapio.ID_CARDAPIO</th>
+                                <td>@cardapio.DATA_CARDAPIO</td>
+                                <td>@cardapio.GUARNICAO</td>
+                                <td>@cardapio.CARNE</td>
+                                <td>@cardapio.SALADA_LEGUMES</td>
+                                <td>@cardapio.EXTRAS</td>
+                                <td>
+                                    <a role="button" class="btn btn-outline-warning" asp-controller="Cardapio" asp-action="EditarCardapio" asp-route-id="@cardapio.ID_CARDAPIO">Editar</a>
+                                    <a role="button" class="btn btn-outline-danger" asp-controller="Cardapio" asp-action="ApagarCardapio" asp-route-id="@cardapio.ID_CARDAPIO">Apagar</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </section>
+    </main>
+</div>

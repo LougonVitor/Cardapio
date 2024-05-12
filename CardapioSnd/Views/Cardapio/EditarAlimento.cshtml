@@ -1,0 +1,35 @@
+﻿@model AlimentoModel
+@{
+    ViewData["Title"] = "Editar Alimento";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <section>
+            <h1 class="text-center display-4 pt-3">Editar Alimento</h1>
+            <div>
+                <form asp-controller="Cardapio" asp-action="EditarAlimento" method="post">
+                    <input type="hidden" asp-for="ID_ALIMENTO" />
+                    <div class="form-group mb-3">
+                        <label for="inputAlimento">Alimento</label>
+                        <input type="text" class="form-control mt-1" id="inputAlimento" placeholder="Digite o alimento aqui" asp-for="DS_ALIMENTO" />
+                        @Html.ValidationMessageFor(o => o.DS_ALIMENTO)
+                    </div>
+                    <div class="form-group mb-4">
+                        <label for="inputTipo">Tipo</label>
+                        <select class="form-control mt-1" asp-for="TP_ALIMENT0">
+                            <option value="">Selecionar</option>
+                            <option value="Gaurnição">Gaurnição</option>
+                            <option value="Carne">Carne</option>
+                            <option value="Salada e Legumes">Salada/Legumes</option>
+                            <option value="Extras">Extras</option>
+                        </select>
+                        @Html.ValidationMessageFor(o => o.TP_ALIMENT0)
+                    </div>
+                    <button type="submit" class="btn btn-outline-warning w-100 mb-2">Editar</button>
+                </form>
+                <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Cardapio" asp-action="GerenciarAlimento">Voltar</a>
+            </div>
+        </section>
+    </main>
+</div>

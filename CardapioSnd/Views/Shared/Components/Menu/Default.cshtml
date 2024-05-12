@@ -1,0 +1,73 @@
+﻿@model UsuarioModel
+
+@if(Model != null)
+{
+    <section id="alert-section">
+        @if (TempData["MenssagemSucesso"] != null)
+        {
+            <div class="alert alert-success alert-div" role="alert">
+                <span class="span-alert-fehcar">X</span>
+                @TempData["MenssagemSucesso"]
+            </div>
+        }
+
+        @if (TempData["MenssagemErro"] != null)
+        {
+            <div class="alert alert-danger alert-div" role="alert">
+                <span class="span-alert-fehcar">X</span>
+                @TempData["MenssagemErro"]
+            </div>
+        }
+    </section>
+}
+<div class="container-fluid">
+    <div>
+        <img src="~/imgs/logo-hifa.png" alt="Logo do HIFA" class="logo-menu" />
+        <a role="button" class="btn btn-nav-blue" href="http://10.0.20.8/">Acesso</a>
+    </div>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-right menu-nav">
+        <ul class="navbar-nav flex-grow-1">
+            @if (Model != null)
+            {
+                if (Model.PERFIL == CardapioSnd.Enums.PerfilEnum.SuperAdmin)
+                {
+                    <li class="nav-item">
+                        <a class="btn-nav-green" asp-area="" asp-controller="Usuario" asp-action="Index">Usuario</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn-nav-green" asp-area="" asp-controller="Cardapio" asp-action="Index">Cardapio</a>
+                    </li>
+                }
+                else if (Model.PERFIL == CardapioSnd.Enums.PerfilEnum.Admin)
+                {
+                    <li class="nav-item">
+                        <a class="btn-nav-green" asp-area="" asp-controller="Cardapio" asp-action="Index">Cardapio</a>
+                    </li>
+                }
+            }
+            <li class="nav-item">
+                <a class="btn-nav-green" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            @if (Model.PERFIL != CardapioSnd.Enums.PerfilEnum.Padrao && Model.PERFIL != CardapioSnd.Enums.PerfilEnum.Admin && Model.PERFIL != CardapioSnd.Enums.PerfilEnum.SuperAdmin)
+            {
+                <li class="nav-item">
+                    <a class="btn-nav-green" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+                </li>
+            }
+            @if(Model != null)
+            {
+                @if (Model.PERFIL == CardapioSnd.Enums.PerfilEnum.Padrao || Model.PERFIL == CardapioSnd.Enums.PerfilEnum.Admin || Model.PERFIL == CardapioSnd.Enums.PerfilEnum.SuperAdmin)
+                {
+                    <li class="nav-item">
+                        <a class="btn-nav-green" asp-area="" asp-controller="Login" asp-action="Sair">Sair</a>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+</div>

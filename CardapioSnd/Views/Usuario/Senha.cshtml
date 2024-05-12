@@ -1,0 +1,28 @@
+﻿@using CardapioSnd.Enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Alterar Senha";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Redefinir Senha do Usuário</h1>
+        <section>
+            <form asp-controller="Usuario" asp-action="Senha" method="POST">
+                <input type="hidden" asp-for="ID_USUARIO" />
+                <div class="form-group mb-3">
+                    <label for="inputLogin">Login</label>
+                    <input type="text" class="form-control mt-1" id="inputLogin" placeholder="Digite seu login aqui..." asp-for="LOGIN">
+                    @Html.ValidationMessageFor(o => o.LOGIN)
+                </div>
+                <div class="form-group mb-3">
+                    <label for="inputSenha">Senha Nova</label>
+                    <input type="text" class="form-control mt-1" id="inputSenha" placeholder="Digite a nova senha que deseja aqui..." asp-for="SENHA">
+                    @Html.ValidationMessageFor(o => o.SENHA)
+                </div>
+                <button type="submit" class="btn btn-outline-warning w-100 mb-2">Alterar Senha</button>
+            </form>
+            <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Usuario" asp-action="Index">Voltar</a>
+        </section>
+    </main>
+</div>

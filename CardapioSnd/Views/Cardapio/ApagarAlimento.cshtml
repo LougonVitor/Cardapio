@@ -1,0 +1,14 @@
+﻿@model AlimentoModel
+@{
+    ViewData["Title"] = "Apagar Alimento";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3 mb-5">Realmente deseja apagar o alimento (@Model.DS_ALIMENTO)?</h1>
+        <section>
+            <a role="button" class="btn btn-outline-secondary w-100 mb-2" asp-controller="Cardapio" asp-action="GerenciarAlimento">Voltar</a>
+            <a role="button" class="btn btn-outline-danger w-100" asp-controller="Cardapio" asp-action="DeletarAlimento" asp-route-id="@Model.ID_ALIMENTO">Confirmar Deleção</a>
+        </section>
+    </main>
+</div>

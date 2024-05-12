@@ -1,0 +1,273 @@
+:root {
+    --azul-hifa: #2A82B9;
+    --verde-hifa: #B0D575;
+    --azul-esverdeado-hifa: #A5D7D5;
+    --branco-transparente: #ffffffd8;
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+    overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+/*VALIDAÇÕES*/
+.field-validation-error {
+    color: red;
+}
+
+#alert-section {
+    position: fixed;
+    z-index: 100;
+    margin: auto;
+    left: 0;
+    right: 0;
+    max-width: 400px;
+    width: 90%;
+}
+
+.alert-div {
+    position: relative;
+    top: 40px;
+    display: flex;
+    align-items: center;
+    padding: 20px 30px;
+    justify-content: center;
+}
+
+.span-alert-fehcar {
+    color: white;
+    background-color: red;
+    padding: 3px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    transition: .1s ease-in-out;
+}
+
+.span-alert-fehcar:hover {
+    transform: scale(1.1);
+    transition: .1s ease-in-out;
+}
+
+
+
+/*COMEÇO DA ESTILIZAÇÃO DO HEADER*/
+header {
+    background-color: white;
+    width: 100vw;
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .25);
+}
+
+.logo-menu {
+    width: 130px;
+    margin-right: 10px;
+}
+
+.btn-nav-green {
+    background-color: transparent;
+    color: var(--verde-hifa);
+    border: 1px solid var(--verde-hifa);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 3px;
+    margin: 0px 5px 0px 0px;
+    transition: .2s;
+}
+
+.btn-nav-blue {
+    background-color: transparent;
+    color: var(--azul-hifa);
+    border: 1px solid var(--azul-hifa);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 3px;
+    margin: 5px 0px 5px 5px;
+    transition: .2s;
+}
+
+.btn-nav-green:hover {
+    background-color: var(--verde-hifa);
+    color: white;
+    border: 1px solid var(--verde-hifa);
+}
+
+.btn-nav-blue:hover {
+    background-color: var(--azul-hifa);
+    color: white;
+    border: 1px solid var(--azul-hifa);
+}
+
+.navbar-nav.flex-grow-1 {
+    justify-content: right;
+}
+
+.container-fluid {
+    position: relative;
+}
+
+.menu-nav {
+    position: absolute;
+    right: 25px;
+}
+
+
+
+
+
+/*ESTILIZAÇÃO DA VIEW INDEX DA HOME*/
+#section-backgroud-apresantation {
+    height: 250px;
+    background-color: black;
+    width: 100vw;
+    position: relative;
+    background: url(../imgs/banner-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -10;
+}
+
+.div-bck-apresantation {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-bck-box-txt {
+    padding: 10px;
+    background-color: var(--branco-transparente);
+    border-radius: 3px;
+}
+
+.btnSuccess, .btnMenu {
+    color: var(--verde-hifa);
+    border-color: var(--verde-hifa);
+    text-decoration: none;
+}
+
+.btnSuccess:hover {
+    color: white;
+    border-color: var(--verde-hifa);
+    background-color: var(--verde-hifa);
+}
+
+.backgroundHome {
+    height: 10vh;
+    background-color: black;
+}
+
+#section-home-cardapios {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+/*COMEÇO DA ESTILIZAÇÃO DO FOOTER*/
+footer {
+    background-color: var(--azul-hifa);
+    font: black;
+    color: white;
+    font-weight: 600;
+    display: flex;
+}
+
+footer p, footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    margin: 0;
+}
+
+#container-footer {
+    display: flex;
+    width: 90%;
+    max-width: 1300px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+}
+
+.box-footer {
+    height: 100%;
+}
+
+.box-footer.right {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: absolute;
+    right: 0;
+}
+
+footer .btn-nav-green {
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 1200px) {
+    #section-home-cardapios {
+        display: block;
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .card {
+        margin: 10px auto;
+    }
+}
+
+
+@media(max-width: 575px) {
+    .menu-nav {
+        position: relative;
+        left: 0;
+        right: 0;
+    }
+
+    li a.btn-nav-green {
+        display: flex;
+        margin: 10px;
+    }
+}

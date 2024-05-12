@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\CardapioSnd.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CardapioSnd.bundle.scp.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\alimentos-card-banner.jpg",
+      "PackagePath": "staticwebassets\\imgs\\alimentos-card-banner.jpg"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\banner-background.jpg",
+      "PackagePath": "staticwebassets\\imgs\\banner-background.jpg"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\banner-mes-mulher.png",
+      "PackagePath": "staticwebassets\\imgs\\banner-mes-mulher.png"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\cardapio-card-banner.jpg",
+      "PackagePath": "staticwebassets\\imgs\\cardapio-card-banner.jpg"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\logo-hifa.png",
+      "PackagePath": "staticwebassets\\imgs\\logo-hifa.png"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\imgs\\logo-ti-hifa.png",
+      "PackagePath": "staticwebassets\\imgs\\logo-ti-hifa.png"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "\\\\srvvir03\\arquivos\\DEPARTAMENTOS\\CACHOEIRO\\GERENCIAESTRATEGICA\\_DESENVOLVIMENTO\\SISTEMAS\\.NET\\CardapioSnd\\CardapioSnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.CardapioSnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.CardapioSnd.props",
+      "PackagePath": "build\\CardapioSnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CardapioSnd.props",
+      "PackagePath": "buildMultiTargeting\\CardapioSnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.CardapioSnd.props",
+      "PackagePath": "buildTransitive\\CardapioSnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

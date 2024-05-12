@@ -1,0 +1,43 @@
+﻿@model CardapioModel
+@{
+    ViewData["Title"] = "Editar Cardapio";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <section>
+            <h1 class="text-center display-4 pt-3">Editar Cardápio</h1>
+            <div>
+                <form asp-controller="Cardapio" asp-action="EditarCardapio" method="POST">
+                    <input type="hidden" asp-for="ID_CARDAPIO" />
+                    <div class="form-group mb-3">
+                        <label for="inputDia">Dia</label>
+                        <input type="date" class="form-control mt-1" id="inputDia" asp-for="DATA_CARDAPIO">
+                        @Html.ValidationMessageFor(o => o.DATA_CARDAPIO)
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputGuarnicao">Guarnição</label>
+                        <input type="text" class="form-control mt-1" id="inputGuarnicao" placeholder="Digite as observações aqui..." asp-for="GUARNICAO">
+                        @Html.ValidationMessageFor(o => o.GUARNICAO)
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputSalada">Saladas e Legumes</label>
+                        <input type="text" class="form-control mt-1" id="inputSalada" placeholder="Digite as observações aqui..." asp-for="SALADA_LEGUMES">
+                        @Html.ValidationMessageFor(o => o.SALADA_LEGUMES)
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputCarne">Carne</label>
+                        <input type="text" class="form-control mt-1" id="inputCarne" placeholder="Digite as observações aqui..." asp-for="CARNE">
+                        @Html.ValidationMessageFor(o => o.CARNE)
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputSenha">Extra</label>
+                        <input type="text" class="form-control mt-1" id="inputSenha" placeholder="Digite os extras do seu cardápio aqui..." asp-for="EXTRAS">
+                    </div>
+                    <button type="submit" class="btn btn-outline-warning w-100 mb-2">Editar</button>
+                </form>
+                <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Cardapio" asp-action="GerenciarCardapio">Voltar</a>
+            </div>
+        </section>
+    </main>
+</div>

@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Cardapio";
+}
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3">Escolha o que deseja fazer</h1>
+        <section id="section-home-cardapios">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/imgs/cardapio-card-banner.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Adicionar Cardápio</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="AdicionarCardapio">Adicionar</a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/imgs/cardapio-card-banner.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Gerenciar Cardápios</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="GerenciarCardapio">Gerenciar</a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/imgs/alimentos-card-banner.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Adicionar Alimentos</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="AdicionarAlimento">Adicionar</a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/imgs/alimentos-card-banner.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Gerenciar Alimentos</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a role="button" class="btn btnSuccess" asp-controller="Cardapio" asp-action="GerenciarAlimento">Gerenciar</a>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>

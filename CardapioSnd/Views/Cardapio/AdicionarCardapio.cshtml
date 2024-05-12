@@ -1,0 +1,78 @@
+﻿@model CardapioAdicionarModel
+@{
+    ViewData["Title"] = "Adicionar Cardapio";
+}
+<div class="container">
+    <main role="main" class="pb-3">
+        <section>
+            <h1 class="text-center display-4 pt-3">Adicionar Cardápio</h1>
+            <div>
+                <form asp-controller="Cardapio" asp-action="AdicionarCardapio" method="POST">
+                    <div class="form-group mb-3">
+                        <label for="inputDia">Dia</label>
+                        <input type="date" class="form-control mt-1" id="inputDia" asp-for="DataCardapio">
+                        @Html.ValidationMessageFor(o => o.DataCardapio)
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputGuarnicao">Guarnição</label>
+                        <select class="form-control mt-1" asp-for="AlimentoGuarnicaoSelect">
+                            <option value="">Selecionar</option>
+                            @if(Model.AlimentoGuarnicao != null && Model.AlimentoGuarnicao.Any())
+                            {
+                                foreach(AlimentoModel alimento in Model.AlimentoGuarnicao)
+                                {
+                                    <option value="@alimento.DS_ALIMENTO">@alimento.DS_ALIMENTO</option>
+                                }
+                            }
+                        </select>
+                        <input type="text" class="form-control mt-1" id="inputGuarnicao" placeholder="Digite as observações aqui..." asp-for="AlimentoGuarnicaoInput">
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputSalada">Saladas e Legumes</label>
+                        <select class="form-control mt-1" asp-for="AlimentoSaladaSelect">
+                            <option value="">Selecionar</option>
+                            @if(Model.AlimentoSalada != null && Model.AlimentoSalada.Any())
+                            {
+                                foreach(AlimentoModel alimento in Model.AlimentoSalada)
+                                {
+                                    <option value="@alimento.DS_ALIMENTO">@alimento.DS_ALIMENTO</option>
+                                }
+                            }
+                        </select>
+                        <input type="text" class="form-control mt-1" id="inputSalada" placeholder="Digite as observações aqui..." asp-for="AlimentoSaladaInput">
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputCarne">Carne</label>
+                        <select class="form-control mt-1" asp-for="AlimentoCarneSelect">
+                            <option value="">Selecionar</option>
+                            @if(Model.AlimentoCarne != null && Model.AlimentoCarne.Any())
+                            {
+                                foreach(AlimentoModel alimento in Model.AlimentoCarne)
+                                {
+                                    <option value="@alimento.DS_ALIMENTO">@alimento.DS_ALIMENTO</option>
+                                }
+                            }
+                        </select>
+                        <input type="text" class="form-control mt-1" id="inputCarne" placeholder="Digite as observações aqui..." asp-for="AlimentoCarneInput">
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="inputSenha">Extra</label>
+                        <select class="form-control mt-1" asp-for="AlimentoExtraSelect">
+                            <option value="">Selecionar</option>
+                            @if(Model.AlimentoExtra != null && Model.AlimentoExtra.Any())
+                            {
+                                foreach(AlimentoModel alimento in Model.AlimentoExtra)
+                                {
+                                    <option value="@alimento.DS_ALIMENTO">@alimento.DS_ALIMENTO</option>
+                                }
+                            }
+                        </select>
+                        <input type="text" class="form-control mt-1" id="inputSenha" placeholder="Digite os extras do seu cardápio aqui..." asp-for="AlimentoExtraInput">
+                    </div>
+                    <button type="submit" class="btn btnSuccess w-100 mb-2">Adicionar</button>
+                </form>
+                <a role="button" class="btn btn-outline-secondary w-100" asp-controller="Cardapio" asp-action="Index">Voltar</a>
+            </div>
+        </section>
+    </main>
+</div>

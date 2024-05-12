@@ -1,0 +1,45 @@
+﻿@model List<UsuarioModel>
+@{
+    ViewData["Title"] = "Gerenciar Usuarios";
+}
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="display-4 text-center pt-3 mb-5">Listagem de Usuários</h1>
+        <section>
+            <a role="button" class="btn btnSuccess" asp-controller="Usuario" asp-action="Criar">Adicionar Usuário</a>
+            <table class="table table-hover" id="table-usuarios">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Login</th>
+                        <th scope="col">Perfil</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Data Cadastro</th>
+                        <th scope="col">Funções</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach(UsuarioModel user in Model)
+                        {
+                            <tr>
+                                <th>@user.ID_USUARIO</th>
+                                <td>@user.LOGIN</td>
+                                <td>@user.PERFIL</td>
+                                <td>@user.EMAIL</td>
+                                <td>@user.DATA_CADASTRO</td>
+                                <td>
+                                    <a role="button" class="btn btn-outline-warning" asp-controller="Usuario" asp-action="Editar" asp-route-id="@user.ID_USUARIO">Editar</a>
+                                    <a role="button" class="btn btnSuccess" asp-controller="Usuario" asp-action="Senha" asp-route-id="@user.ID_USUARIO">Senha</a>
+                                    <a role="button" class="btn btn-outline-danger" asp-controller="Usuario" asp-action="Apagar" asp-route-id="@user.ID_USUARIO">Apagar</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </section>
+    </main>
+</div>
