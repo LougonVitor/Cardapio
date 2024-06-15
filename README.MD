@@ -1,4 +1,4 @@
-<h1 align="center"> 🍽️ Cardápio .NET 🍽️;</h1>
+<h1 align="center"> 🍽️ Cardápio .NET 🍽️</h1>
 <h2> ✏️ Sobre o Projeto: </h2>
 <p>Este projeto fullstack foi feito com a intenção de criar um cardápio digital para colaboradores e pacientes de um hospital, para que seja de fácil visualização e informação sobre o que terá de alimento hoje e na semana, oferecendo uma interface simples para os usuários da cozinha poderem adicionar os cardápios!</p>
 <h2 >&#128640; Tecnologias Utilizadas</h2>
